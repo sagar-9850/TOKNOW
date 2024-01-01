@@ -4,3 +4,5 @@ function FunctionalComp()
 {
     return <p>hello this is func</p>
 }
+
+export default FunctionalComp;

@@ -6,3 +6,5 @@ class ClassComp extends React.Component{
     return <p> This is class comp</p>
     }
 }
+
+export default ClassComp;
